@@ -238,11 +238,12 @@ button:hover {
     .artists-container {
         flex-flow: column wrap;
         justify-content: center;
+        text-align: center;
     }
     .artist img {
-        width: auto;
+        width: 400px;
     }
     .bio {
-        width: auto;
+        width: 400px;
     }
 }
